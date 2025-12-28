@@ -1,50 +1,45 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I+am+a+Web+Developer;Building+Scalable+Products;Focus+on+Performance" alt="Typing SVG" />
+  <h1 align="center">Murad Ismayil</h1>
 
-  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E91E3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Product+Thinker;Crafting+Secure+and+Scalable+Web+Apps;React+%7C+Node.js+%7C+Cybersecurity+Enthusiast" alt="Typing SVG" />
 
-  <p>
-    <a href="https://www.linkedin.com/in/themurad/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://t.me/themurad0" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-  </p>
-
+  <br/>
+  
+  <p align="center">
+    <b>Azerbaijan based developer focused on building high-impact digital products.</b>
+  </p>
+  
 </div>
 
-<hr/>
+<br/>
 
-### 👨‍💻 About Me
+### 👨‍💻 Who Am I?
 
-> I am a **web developer** focused on building clean, scalable, and user-friendly digital products. My primary experience is in developing modern websites and web applications, with a strong attention to structure, performance, and maintainability.
+I am a **Full Stack Developer** who looks at code through the lens of a product founder. I don't just write functions; I build **systems**. My focus is on creating secure, performant, and scalable applications that solve real-world problems.
 
-> I work mainly with **front-end technologies** while collaborating closely with back-end developers to deliver complete solutions. I enjoy turning ideas into real, usable products and continuously improving systems through iteration and feedback.
+Currently, I am deepening my expertise in **Cybersecurity (OWASP Top 10)** and exploring **Smart City** architectures to create meaningful tech solutions.
 
-> 🚀 **Beyond client work:** I am interested in SaaS products, automation, and building tools that solve real-world problems, especially for small and medium-sized businesses. I value clear communication, practical solutions, and long-term thinking in every project.
+* **Core Philosophy:** Functionality meets Aesthetics (Vibecoding).
+* **Focus:** React Ecosystem, Node.js Backend, and Secure Coding Practices.
+* **Mindset:** Building assets, not just repositories.
 
 <br/>
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 🛠️ Tech Stack & Tools
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+| **Frontend** | **Backend & Data** | **Tools & Security** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> |
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&text=Let's%20Build%20The%20Future&fontSize=20&fontColor=ffffff&fontAlignY=40"/>
 </div>
