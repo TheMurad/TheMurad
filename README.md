@@ -19,7 +19,6 @@
 I am a developer with a background in research, combining technical precision with a product-oriented mindset. I focus on building responsive, efficient, and user-friendly web applications.
 
 * **Development:** Specialized in the **React ecosystem** and modern frontend architecture.
-* **Research:** I am actively exploring **Smart City** concepts and digital governance to apply tech solutions to local challenges.
 * **Focus:** Writing clean, maintainable code and understanding the security aspects (OWASP) of web development.
 
 <br/>
